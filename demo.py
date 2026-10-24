@@ -1,0 +1,3 @@
+import mathcraft
+
+mathcraft.math()

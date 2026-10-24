@@ -1,0 +1,6 @@
+include demo.py
+include test_mathematics.py
+include test_input.py
+include test_desktop_cursor.py
+include test_math_entry.py
+include test_startup.py
